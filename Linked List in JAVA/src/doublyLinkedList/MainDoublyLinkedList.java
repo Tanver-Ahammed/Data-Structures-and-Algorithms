@@ -6,7 +6,7 @@ public class MainDoublyLinkedList {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         DoublyLinkedList linkedList = new DoublyLinkedList(50);
-
+        System.out.println("This is a Doubly Linked List Code in JAVA.\n");
         while (true) {
             System.out.println("\n(1) Insert First\n" +
                     "(2) Insert Last\n" +

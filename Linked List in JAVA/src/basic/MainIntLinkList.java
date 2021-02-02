@@ -8,6 +8,7 @@ public class MainIntLinkList {
         Scanner scanner = new Scanner(System.in);
 
         IntLinkedList linkedList = new IntLinkedList(5);
+        System.out.println("This is a Linked List Code in JAVA.\n");
 
         while (true) {
             System.out.println("\n(1) Insert First\n" +
