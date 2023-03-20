@@ -1,17 +1,17 @@
 package quicksort;
 
 public class QuickSort {
-    public static void quickSortMethod(int[] array, int low, int high,boolean flag) {
+    public static void quickSortMethod(int[] array, int low, int high, boolean flag) {
         if (low >= high)
             return;
         int pivot = 0;
         if (flag)
             pivot = PartitionClass.partitionAscOrder(array, low, high);
         else
-            pivot = PartitionClass.partitionDecOrder(array,low,high);
+            pivot = PartitionClass.partitionDecOrder(array, low, high);
 
-        quickSortMethod(array, low, pivot - 1,flag);
-        quickSortMethod(array, pivot + 1, high,flag);
+        quickSortMethod(array, low, pivot - 1, flag);
+        quickSortMethod(array, pivot + 1, high, flag);
     }
 
 

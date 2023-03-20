@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List in JAVA/Linked List in JAVA.iml" filepath="$PROJECT_DIR$/Linked List in JAVA/Linked List in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue in JAVA/Queue in JAVA.iml" filepath="$PROJECT_DIR$/Queue in JAVA/Queue in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion in JAVA/Recursion in JAVA.iml" filepath="$PROJECT_DIR$/Recursion in JAVA/Recursion in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching in JAVA/Searching in JAVA.iml" filepath="$PROJECT_DIR$/Searching in JAVA/Searching in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting in JAVA/Sorting in JAVA.iml" filepath="$PROJECT_DIR$/Sorting in JAVA/Sorting in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack in JAVA/Stack in JAVA.iml" filepath="$PROJECT_DIR$/Stack in JAVA/Stack in JAVA.iml" />
+    </modules>
+  </component>
+</project>

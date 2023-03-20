@@ -12,10 +12,10 @@ public class PartitionClass {
                 array[index] = temp;
             }
         }
-        int temp=array[index+1];
-        array[index+1] = array[high];
+        int temp = array[index + 1];
+        array[index + 1] = array[high];
         array[high] = temp;
-        return index+1;
+        return index + 1;
     }
 
     public static int partitionDecOrder(int[] array, int low, int high) {
@@ -29,10 +29,10 @@ public class PartitionClass {
                 array[index] = temp;
             }
         }
-        int temp=array[index+1];
-        array[index+1] = array[high];
+        int temp = array[index + 1];
+        array[index + 1] = array[high];
         array[high] = temp;
-        return index+1;
+        return index + 1;
     }
 
 
